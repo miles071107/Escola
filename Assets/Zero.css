@@ -1,0 +1,12 @@
+.header {
+    font-size: 0.8rem;
+    background-color: darkred;
+    display: flex;
+}
+.header-grid {
+    display: grid;
+    outline: 2px green;
+    background-color: darkgreen;
+    margin: 5vp;
+    padding: 5vp;
+}
